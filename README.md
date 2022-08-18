@@ -1,5 +1,3 @@
 # Real-Time-Bus-Tracker
 
-This exercise is meant to take real time bus information using mapbox. For this you do need to get your own access key that you can just do on their website.
-
-Eventually I want to be able to apply this to any bigger areas I want.
+This activity makes use of pulling a map of Cambridge from MapBox and adding custom markers along the route between Harvard and MIT. I had never done anything like this before so getting to use an access token and using MapBox was a very interesting task. In the future I think I would like to integrate this to my own home town and possibly tracking my commute to family and friends houses.
